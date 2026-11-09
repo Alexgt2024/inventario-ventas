@@ -2,7 +2,7 @@
 
 **Curso:** Aseguramiento de la Calidad del Software  
 **Docente:** Ing. Jersson Castillo  
-**Evaluación total:** 35 puntos / 120 minutos  
+**Evaluación total:** 35 puntos / 120 minutos
 
 Este repositorio contiene **el punto de partida, no las soluciones del examen**.
 Trabaja individualmente, sigue las actividades que te presente el evaluador y
@@ -93,3 +93,4 @@ habilitados para agilizar la práctica dentro de las dos horas.
 Este archivo no sustituye las instrucciones del evaluador. Cada actividad se
 califica sobre su puntaje y puede recibir penalización si se solicitan pistas o
 soluciones. Consulta el prompt del examen para la rúbrica completa.
+Proyecto de Inventario y Ventas con pruebas unitarias, de integración y diagnóstico de defectos.
